@@ -1,0 +1,18 @@
+[
+{"id":"linkedin","platform":"LinkedIn","url":"https://www.linkedin.com/in/engineerbelalaymanahmed","username":"engineerbelalaymanahmed","category":"Professional","type":"professional","icon":"in","featured":true},
+{"id":"x","platform":"X","url":"https://x.com/Engbelalayman","username":"@Engbelalayman","category":"Professional","type":"professional","icon":"X","featured":true},
+{"id":"facebook-pro","platform":"Facebook","url":"https://www.facebook.com/Engineerbelalaymanahmed","username":"Engineerbelalaymanahmed","category":"Professional","type":"professional","icon":"f"},
+{"id":"instagram-pro","platform":"Instagram","url":"https://www.instagram.com/engineerbelalaymanahmed","username":"@engineerbelalaymanahmed","category":"Professional","type":"professional","icon":"ig"},
+{"id":"threads-pro","platform":"Threads","url":"https://www.threads.com/@engineerbelalaymanahmed","username":"@engineerbelalaymanahmed","category":"Professional","type":"professional","icon":"@"},
+{"id":"github","platform":"GitHub","url":"https://github.com/Engineerbelalaymanahmed","username":"Engineerbelalaymanahmed","category":"Technical","type":"professional","icon":"GH","featured":true},
+{"id":"youtube","platform":"YouTube","url":"https://youtube.com/@engineer.belalaymanahmed","username":"@engineer.belalaymanahmed","category":"Content","type":"professional","icon":"YT","featured":true},
+{"id":"tiktok-pro","platform":"TikTok","url":"https://www.tiktok.com/@engineerbelalaymanahmed","username":"@engineerbelalaymanahmed","category":"Content","type":"professional","icon":"TT"},
+{"id":"reddit","platform":"Reddit","url":"https://www.reddit.com/u/engineer-belalayman","username":"u/engineer-belalayman","category":"Content","type":"professional","icon":"r/"},
+{"id":"telegram","platform":"Telegram","url":"https://t.me/Engineerbelalaymanahmed","username":"@Engineerbelalaymanahmed","category":"Communication","type":"professional","icon":"TG"},
+{"id":"whatsapp-pro","platform":"WhatsApp Business","url":"https://wa.me/201026531399","username":"+20 102 653 1399","category":"Communication","type":"professional","icon":"WA"},
+{"id":"facebook-personal","platform":"Facebook","url":"https://www.facebook.com/belalaymanahmed01","username":"belalaymanahmed01","category":"Social","type":"personal","icon":"f"},
+{"id":"instagram-personal","platform":"Instagram","url":"https://www.instagram.com/belalaymanahmed01","username":"@belalaymanahmed01","category":"Social","type":"personal","icon":"ig"},
+{"id":"threads-personal","platform":"Threads","url":"https://www.threads.com/@belalaymanahmed01","username":"@belalaymanahmed01","category":"Social","type":"personal","icon":"@"},
+{"id":"tiktok-personal","platform":"TikTok","url":"https://www.tiktok.com/@belalaymanahmed.01","username":"@belalaymanahmed.01","category":"Social","type":"personal","icon":"TT"},
+{"id":"whatsapp-personal","platform":"WhatsApp","url":"https://wa.me/201025012928","username":"+20 102 501 2928","category":"Social","type":"personal","icon":"WA"}
+]
